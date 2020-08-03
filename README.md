@@ -1,5 +1,5 @@
 # castaneda-fortune
-**Сборник цитат Карлоса Кастанеда для fortune
+Сборник цитат Карлоса Кастанеда для fortune
 
 sudo mv casteneda /usr/share/games/fortunes
 
