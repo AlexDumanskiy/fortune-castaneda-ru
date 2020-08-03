@@ -7,4 +7,4 @@ sudo mv casteneda.dat /usr/share/games/fortunes
 
 edit ~/.bashrc
 
-tput setaf 3; fortune castaneda
+tput setaf 11; fortune castaneda
